@@ -11,3 +11,6 @@ function mystery(a) {
     else return a[0];
 }
 ```
+The function finds the maximum value in an array of numbers. It compares the first element with the maximum of the rest of the array, and returns the largest value while making the array smaller. It is a recursive function.
+
+The function finds the maximum value in an array of numbers. It compares the first element with the maximum of the rest of the array, and returns the largest value while making the array smaller. It is a recursive function.
